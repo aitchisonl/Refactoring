@@ -1,0 +1,48 @@
+blacksmith images/blacksmith.bmp 255 255 255 0
+blob images/blob1.bmp 255 255 255 0
+blob images/blob2.bmp 255 255 255 0
+blob images/blob3.bmp 255 255 255 0
+blob images/blob4.bmp 255 255 255 0
+blob images/blob5.bmp 255 255 255 0
+blob images/blob6.bmp 255 255 255 0
+blob images/blob7.bmp 255 255 255 0
+blob images/blob8.bmp 255 255 255 0
+blob images/blob9.bmp 255 255 255 0
+blob images/blob10.bmp 255 255 255 0
+blob images/blob11.bmp 255 255 255 0
+blob images/blob12.bmp 255 255 255 0
+miner images/miner1.bmp 252 252 252 0
+miner images/miner2.bmp 252 252 252 0
+miner images/miner3.bmp 252 252 252 0
+miner images/miner4.bmp 252 252 252 0
+miner images/miner5.bmp 252 252 252 0
+quake images/quake1.bmp 255 255 255 0
+quake images/quake2.bmp 255 255 255 0
+quake images/quake3.bmp 255 255 255 0
+quake images/quake4.bmp 255 255 255 0
+quake images/quake5.bmp 255 255 255 0
+quake images/quake6.bmp 255 255 255 0
+none images/none.bmp 255 255 255 0
+ore images/ore.bmp 201 26 26 0
+obstacle images/obstacle.bmp
+grass images/grass.bmp
+rocks images/rock.bmp
+dirt images/dirt.bmp
+vein images/vein.bmp
+background_default images/none.bmp
+zombie images/go_1.bmp 0 0 0 0
+zombie images/go_2.bmp 0 0 0 0
+zombie images/go_3.bmp 0 0 0 0
+zombie images/go_4.bmp 0 0 0 0
+zombie images/go_5.bmp 0 0 0 0
+zombie images/go_6.bmp 0 0 0 0
+zombie images/go_7.bmp 0 0 0 0
+zombie images/go_8.bmp 0 0 0 0
+zombie images/go_9.bmp 0 0 0 0
+zombie images/go_10.bmp 0 0 0 0
+deadgrass images/deadgrass.bmp 0 0 0 0
+knight images/knight1.bmp 0 0 0 0
+knight images/knight2.bmp 0 0 0 0
+knight images/knight3.bmp 0 0 0 0
+
+
